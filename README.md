@@ -31,10 +31,15 @@ Print the maximum number of teams that can be formed with the optimal total weig
 
 Sample TestCase 1
 Input
+
 6
+
 1 1 3 4 2 2
+
 Output
+
 2
+
 Explanation
 
 There are two possible cases:
