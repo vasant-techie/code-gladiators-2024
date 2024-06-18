@@ -1,9 +1,6 @@
 # code-gladiators-2024
 TechGig Code Gladiator 2024 - Problem statement and solution in Java!
 
-# code-gladiators-2024
-TechGig Code Gladiator 2024 - Problem statement and solution in Java!
-
 
 Optimizing Competition (100 Marks)
 
