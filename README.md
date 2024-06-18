@@ -30,6 +30,7 @@ Output Format
 Print the maximum number of teams that can be formed with the optimal total weight s.
 
 Sample TestCase 1
+
 Input
 
 6
